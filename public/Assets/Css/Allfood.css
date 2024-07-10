@@ -1,0 +1,44 @@
+
+.search_widget{
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.search_widget input {
+    border: none;
+}
+.search_widget input:focus {
+    outline: none;
+}
+.sorting_widget select{
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.paginationBttns{
+    width: 80%;
+    height: 40px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 0.7rem;
+    list-style: none;
+    margin-top: 30px;
+}
+.paginationBttns a{
+    padding:5px 13px;
+    background: #df2020;
+    color: #fff !important;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.paginationBttns a:hover{
+    background: rgb(46, 44, 44);
+}

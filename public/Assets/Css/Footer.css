@@ -1,0 +1,28 @@
+.bgcolor{
+    background: #ecb6a7;
+}
+.f-logo{
+    text-align: left;
+}
+.f-logo img{
+    width: 70px;
+    object-fit: contain;
+}
+.f-logo h5{
+    font-weight:bold;
+    font-size: 20px;
+}
+.f-logo p{
+    font-size: 15px;
+}
+.send-box{
+    /* background: #df2020; */
+    color: #fff;
+}
+.social-logo i{
+   background: #df2020;
+   color: #fff;
+   padding: 10px;
+   margin: 8px;
+   border-radius: 50%;
+}

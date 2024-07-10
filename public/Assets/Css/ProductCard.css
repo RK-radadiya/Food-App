@@ -1,0 +1,16 @@
+.product_item{
+    border: 1px solid #fde4e4;
+    text-align: center;
+    padding: 30px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.product_img{
+    transition: 0.4s;
+}
+.product_img:hover{
+    transform: scale(1.4);
+}
+/* .addtocart_btn{
+    padding: 0px 0px;
+} */
